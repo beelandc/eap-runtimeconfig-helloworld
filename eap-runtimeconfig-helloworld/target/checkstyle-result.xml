@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.5">
+<file name="/home/cbeeland/projects/project-repos/irs/jboss-eap-quickstarts-stub/eap-runtimeconfig-helloworld/src/main/java/org/jboss/as/quickstarts/helloworld/HelloService.java">
+</file>
+<file name="/home/cbeeland/projects/project-repos/irs/jboss-eap-quickstarts-stub/eap-runtimeconfig-helloworld/src/main/java/org/jboss/as/quickstarts/helloworld/HelloWorldServlet.java">
+</file>
+</checkstyle>
