@@ -1,4 +1,4 @@
-FROM registry.redhat.io/jboss-eap-7/eap74-openjdk8-openshift-rhel7:7.4.1
+FROM registry.redhat.io/jboss-eap-7/eap74-openjdk8-runtime-openshift-rhel7:7.4.1
 
 # COPY JAR TO /deployments/ dir
 COPY ./target/helloworld-ssl.war /deployments
